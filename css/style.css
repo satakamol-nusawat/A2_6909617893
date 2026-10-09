@@ -1,0 +1,15 @@
+body {
+    background-color: #FFEFD5;
+
+    h1 {color: #FF91A4;
+        text-align: center; 
+        border-style: dashed;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-style: normal;}
+    h3 {color: #FF91A4;
+        font-style: italic;
+        margin-bottom: 0%}
+    p {margin-bottom: 0%;}
+    ul {margin-top: 0%;}
+
+}
