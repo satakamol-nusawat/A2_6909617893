@@ -1,17 +1,31 @@
 body{
     background-color: #FFEFD5;
 }
-h1 {color: #FF91A4;
-    text-align: center; 
-    border-style: dashed;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-style: normal;}
-h3 {color: #FF91A4;
+h1.rounded {color:white;
+    text-align: left;
+    border-style: hidden; 
+    padding-left: 5%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    background-color: rgb(255, 219, 225);
+}
+
+h3 {color: pink;
     font-style: italic;
     margin-bottom: 0%}
-p {margin-bottom: 0%;}
-ul {margin-top: 0%;}
+p {
+    font-size: medium;
+}
 
+.p {
+    font-size: small;
+    
+}
+
+
+.portfolio-header{
+    align-items: center;
+}
 
 
    
