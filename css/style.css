@@ -1,6 +1,5 @@
-body{
-    background-color: #FFEFD5;
-}
+
+
 h1.rounded {color:white;
     text-align: left;
     border-style: hidden; 
@@ -13,19 +12,24 @@ h1.rounded {color:white;
 h3 {color: pink;
     font-style: italic;
     margin-bottom: 0%}
+
 p {
     font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .p {
     font-size: small;
-    
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 
-.portfolio-header{
-    align-items: center;
-}
+
+
+
+
+
+
 
 
    
